@@ -4,7 +4,7 @@ Bet an item on a spinning wheel to turn it into something better. A client-side 
 
 Put an item on the wheel, pick what you want it to become, and let the odds decide. Win and the new item is yours. Lose and the stake is gone. The chance comes from the real value of both items (recipes, durability, rarity), every trade is announced in chat, and the wheel comes in five styles.
 
-**Download:** Modrinth (link coming soon)
+**Download:** [Modrinth](https://modrinth.com/mod/itemupgrader)
 
 ## How to use
 
