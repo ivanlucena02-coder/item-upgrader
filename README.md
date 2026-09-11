@@ -16,6 +16,12 @@ Put an item on the wheel, pick what you want it to become, and let the odds deci
 
 The mod is 100 % client-side. It applies results with the vanilla `/give` and `/clear` commands, so you need **operator permissions (level 2)** wherever you play. The upside: it works on Realms with your friends, on any server, on LAN worlds and in singleplayer, with nothing installed server-side.
 
+## Settings (Mod Menu)
+
+- **General**: house edge, minimum and maximum chance, wheel style, spin length, max prize count, smelting cost, chat announcements and their threshold, seed.
+- **Only items you've obtained**: limits prizes to items you have had at some point (from your server statistics plus what the mod sees in your inventory).
+- **Item values**: every priced item, filterable by family (blocks, tools, armor, food, potions, other) and by search. Change one item's value, or multiply / set all the listed ones at once.
+
 ## Requirements
 
 - Minecraft 26.2
