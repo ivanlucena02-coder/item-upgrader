@@ -21,6 +21,8 @@ The mod is 100 % client-side. It applies results with the vanilla `/give` and `/
 - **General**: house edge, minimum and maximum chance, wheel style, spin length, max prize count, smelting cost, chat announcements and their threshold, seed.
 - **Only items you've obtained**: limits prizes to items you have had at some point (from your server statistics plus what the mod sees in your inventory).
 - **STATS** button on the wheel: every spin you've made, with the chance, the number the dice rolled and the result, plus totals.
+- **Themes**: pick the wheel (five flat ones, three in 3D: Nether portal, End portal, enchanting room) and the colour set (Obsidian, Nether, End, Ocean, Light).
+- **Lock**: freezes the odds, rules and item values for good, for playing fair with friends; only editing `config/item_upgrader.json` undoes it.
 - **Item values**: every priced item, filterable by family (blocks, tools, armor, food, potions, other) and by search. Change one item's value, or multiply / set all the listed ones at once.
 
 ## Requirements
